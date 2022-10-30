@@ -1,0 +1,35 @@
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\ClassLibrary1\bin\Debug\DataAccess.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\ClassLibrary1\bin\Debug\Entities.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\ClassLibrary1\bin\Debug\DataAccess.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\ClassLibrary1\bin\Debug\Entities.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\ClassLibrary1\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\ClassLibrary1\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\ClassLibrary1\obj\Debug\Business.csproj.CopyComplete
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea2_AndrésCanoBarboza\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea2_AndrésCanoBarboza\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea2_AndrésCanoBarboza\ClassLibrary1\bin\Debug\DataAccess.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea2_AndrésCanoBarboza\ClassLibrary1\bin\Debug\Entities.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea2_AndrésCanoBarboza\ClassLibrary1\bin\Debug\DataAccess.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea2_AndrésCanoBarboza\ClassLibrary1\bin\Debug\Entities.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea2_AndrésCanoBarboza\ClassLibrary1\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea2_AndrésCanoBarboza\ClassLibrary1\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea2_AndrésCanoBarboza\ClassLibrary1\obj\Debug\Business.csproj.CopyComplete
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea2_AndrésCanoBarboza\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea2_AndrésCanoBarboza\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\ClassLibrary1\bin\Debug\DataAccess.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\ClassLibrary1\bin\Debug\Entities.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\ClassLibrary1\bin\Debug\DataAccess.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\ClassLibrary1\bin\Debug\Entities.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\ClassLibrary1\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\ClassLibrary1\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\ClassLibrary1\obj\Debug\Business.csproj.CopyComplete
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml

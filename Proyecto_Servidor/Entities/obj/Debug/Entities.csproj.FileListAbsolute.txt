@@ -1,0 +1,15 @@
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\Entities\bin\Debug\Entities.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\Entities\bin\Debug\Entities.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\Entities\obj\Debug\Entities.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\Tarea1_AndrésCanoBarboza\Entities\obj\Debug\Entities.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\Entities\bin\Debug\Entities.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\Entities\bin\Debug\Entities.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\Entities\obj\Debug\Entities.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\Entities\obj\Debug\Entities.pdb
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\canob\OneDrive\Carrera Informática\Cursos\2022\Programación Avanzada\AndrésCanoBarboza-Proyecto\Proyecto Servidor\Entities\obj\Debug\Entities.csproj.CopyComplete
